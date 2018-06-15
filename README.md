@@ -1,2 +1,2 @@
 # vonwettberglab.github.io
-Plant Science Lab
+Plant and Soil Science Lab
