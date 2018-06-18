@@ -4,9 +4,50 @@ We are a group of evolutionary ecologists who use tools from population genetics
 
 You can visit [our lab website](http://ericvonwettberg.wixsite.com/laboratory) to find out more about our research.
 
-### Our Research Focuses
+### Research Focuses
 
-We are 
+We are currently working on research in the following areas:
+
+-USAID: Feed the Future - Chickpea:
+
+We are a partner in USAID's recently established FTF Innovation lab for chickpea. For more information, visit the [main project website](http://chickpealab.ucdavis.edu/)
+
+With the support of USAID we are working with partners in Ehtiopia to utilize wild relatives of chickpea to create new varieties of chickpea for the highlands of Ethiopia that have greater tolerance of the shifted precipitation and temperature patterns we expect with climate change, resistance to a range of pests and pathogens, yet retain the unique market characteristics that make chickpea a culturally important and beloved crop in Ethiopia.
+
+Our work spans approaches from population genetics to seed nutritional chemistry to field trials.  We are developing a large set of advanced backcross introgression lines which capture diverse adaptations from wild Cicer reticulatum in a cultivated genetic background.
+
+-Crop Domestication: the Inadvertent Consequences
+
+Domestication of annual crops such as chickpea led to widespread phenotypic and genetic changes.  The loss of dehicence, changes in plant architecture, changes in phenology, and genome-wide loss of genetic variation are all hallmarks of domestication of many annual crops.  However, other changes may have occurred inadvertently.  As evolutionary ecologists, we are fascinated in these changes.  We have several related projects, some funded by NSF and some by other sources, that examine these changes in a few select crops.
+
+In annual legume crops such as chickpea and lentil, domestication likely brought early crops into cultivated fields with deeper soil and higher levels of available soil nitrogen.  Later movement of crops beyond the native range of their wild relatives would have brought legumes into soils where their rhizobial symbionts do not occur.  These changes would have altered the dynamics of the relationship between crop legumes and their rhizobia.  With the support of NSF's PGRP program we are using a mixture of population genomics and reciprocal transplant approaches in the greenhouse and field in Turkey to examine these changes. This work is a collaboration with partners at UC Davis and Dicle University in Turkey, who can be found at [their website](http://chickpealab.ucdavis.edu/index.php/research1/nsf-project/) 
+
+To better understand variation in rhizobia and their plant hosts as they colonize new ranges, we collaborate with Stephanie Porter and Maren Friesen on a project examining the dynamics of the Medicago-Sinorhizobia co-invasion of North America.  This project is still in its early phases, as we collect and amplify material of M. polymorpha and M lupulina from Florida, but you can see more [here](http://ssporter.com/) and [here](http://friesen.plantbiology.msu.edu/).
+
+Annual crops have been the primary focus of most domestication research. However, tree crops pose a different set of questions.  Many trees are highly heterozygous, and the have not undergone the bottlenecks that annual crops have experienced. Many tree crops are grafted or cloned, possibly maintaining genetic variation and fixing the genetic process of domestication. Emily Warschefsky, a doctoral student in our group, has bravely tackled these questions in mangoes.  Her work is currently supported by an NSF Dissertation Improvement Grant.
+
+-Conservation Genetics
+
+We face an unprecedented loss of biological diversity, both at the species level and the within species level.  We work with a variety of declining species to help protect this diversity.  
+
+Many wild relatives of crops have very little or no formal protection.  As the last reservoir of variation for breeding against diseases, pests, and abiotic stresses like drought, these are essential species for the future of agriculture.  We have built a large collection of chickpea wild germplasm that increases existing collections by an order of magnitude.  We are working with partners in Turkey to take steps to start protecting many of the wild relatives of founder middle eastern crops in situ.  Few efforts at in situ protection of crop wild relatives have been attempted.  Such efforts are essential in Turkey, with the world's highest concentration of wild relatives of crops and very rapid economic development and changes in land use patterns.
+
+In Florida and the Caribbean we have worked with a variety of species and a number of land managers to better understand patterns of genetic variation in endangered species.  We use a variety of molecular markers to characterize genetic variation, and collaborate with land managers as they take steps to reintroduce declining species into protected areas.
+
+-Conservation of Heritage Crops: Investigating Abenaki Agricultural History
+
+The Champlain Basin in Vermont has a rich agricultural history with strong influences from the Abenaki, Algonquin, Iroquois, and other Indigenous American groups, from several centuries before the introduction of Europeans to the region. The arrival of Europeans encouraged the trading of indigenous agricultural crops, allowing for these crucial pieces of agriculture heritage to spread. As a lab, we aim to work with Abenaki Elders and the Seeds of Renewal Project to preserve and protect these important landrace varieties.
+
+Maintaining a collection of Abenaki heritage crops can provide crucial insight on the cultural history and farming practices of Vermont's local natives. In order to harness this insight, we are using molecular markers from DNA sequencing to compare Abenaki heirloom varieties to other commercial varieties and varieties from other regions. We are then using these comparisons to genetically characterize each variety. 
+
+Once each variety is categorized, we will use our findings to tell their story through outreach with Abenaki farmers and leaders, public lectures, and the deposition of our genetic findings into public repositories. Our findings will help uncover an aspect of the lost agricultural history of the Abenaki people, and help to restore their agricultural sovereignty and food security.
+
+The Champlain Basin in Vermont has a rich agricultural history with strong influences from the Abenaki, Algonquin, Iroquois, and other Indigenous American groups, from several centuries before the introduction of Europeans to the region. The arrival of Europeans encouraged the trading of indigenous agricultural crops, allowing for these crucial pieces of agriculture heritage to spread. As a lab, we aim to work with Abenaki Elders and the Seeds of Renewal Project to preserve and protect these important landrace varieties.
+
+Maintaining a collection of Abenaki heritage crops can provide crucial insight on the cultural history and farming practices of Vermont's local natives. In order to harness this insight, we are using molecular markers from DNA sequencing to compare Abenaki heirloom varieties to other commercial varieties and varieties from other regions. We are then using these comparisons to genetically characterize each variety. 
+
+Once each variety is categorized, we will use our findings to tell their story through outreach with Abenaki farmers and leaders, public lectures, and the deposition of our genetic findings into public repositories. Our findings will help uncover an aspect of the lost agricultural history of the Abenaki people, and help to restore their agricultural sovereignty and food security.
+
 
 ### Recent Publications
 
