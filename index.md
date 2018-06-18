@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## von Wettberg Plant and Soil Science Lab
 
-You can use the [editor on GitHub](https://github.com/vonwettberglab/vonwettberglab.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+We are a group of evolutionary ecologists who use tools from population genetics, agronomy, conservation biology and field ecology to study how population bottlenecks affect genetic diversity and stress tolerance in wild relatives of crops and in endangered species.  Most of our work is on the wild relatives of chickpea, but we also work with lentil, fenugreek, mungbeans, and mangoes.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+You can visit [our lab website](http://ericvonwettberg.wixsite.com/laboratory) to find out more about our research.
 
 ### Markdown
 
